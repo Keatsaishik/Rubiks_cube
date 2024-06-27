@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rubiks_cube_solver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rubiks_cube_solver">
+				<Option output="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/rubiks_cube_solver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rubiks_cube_solver"/>
+					<CompileFile command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rubiks_cube_solver/fast">
+				<Option output="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/rubiks_cube_solver.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/AISHIK GHOSH/AppData/Local/JetBrains/CLion 2024.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rubiks_cube_solver/fast"/>
+					<CompileFile command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/AISHIK~1/AppData/Local/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/PatternDatabase/PatternDatabase.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/RubiksCube.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/RubiksCube.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/RubiksCube1dArray.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/RubiksCube3dArray.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Model/RubiksCubeBitboard.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/CornerDBMaker.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/CornerPatternDatabase.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/NibbleArray.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/NibbleArray.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/PatternDatabase.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/PermutationIndexer.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/math.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/PatternDatabases/math.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Solver/BFSSolver.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Solver/DFSSolver.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Solver/IDAstarSolver.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/Solver/IDDFSSolver.h">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/main.cpp">
+			<Option target="rubiks_cube_solver"/>
+		</Unit>
+		<Unit filename="C:/Users/AISHIK GHOSH/OneDrive/Desktop/rubiks-cube-solver-main/rubiks-cube-solver-main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
